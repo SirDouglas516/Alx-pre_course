@@ -1,1 +1,4 @@
-~
+[main 185a79c] ~
+ 2 files changed, 1 insertion(+)
+ create mode 100644 0x01-git/.gitignore
+ create mode 100644 0x01-git/gitignore
